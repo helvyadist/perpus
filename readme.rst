@@ -6,6 +6,7 @@ Project Team Members List
 * Pribadi Nugroho - 17180040
 * Abdul Wahab Avrizal - 17180035
 * Nasrul Kamal - 17180020
+* Adel Lia Nur Fitri - 17180046
 
 
 
