@@ -1,10 +1,11 @@
 *************************
-Project team members list
+Project Team Members List
 *************************
 
 * Helvy Adistia - 17180087
 * Pribadi Nugroho - 17180040
 * Abdul Wahab Avrizal - 17180035
+* Nasrul Kamal - 17180020
 
 
 
